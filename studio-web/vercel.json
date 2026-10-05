@@ -1,0 +1,1 @@
+{"functions":{"app/api/cover/route.js":{"maxDuration":60},"app/api/narrate/route.js":{"maxDuration":60},"app/api/research/route.js":{"maxDuration":60}}}
